@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[osi:home|Door43 (osi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-osi|d43-osi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-osi/archive/master.zip|d43-osi.zip]]
+
+**Recent Changes**
+{{changes>ns = osi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/osi|Ethnologue data]]
+
